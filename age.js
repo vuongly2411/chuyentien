@@ -1,5 +1,5 @@
-var currentYear = new Date();
-var year = currentYear.getFullYear();
+let currentYear = new Date(); //khai báo
+let year = currentYear.getFullYear();
 
 let yearBirth = +prompt("Nhập vào năm sinh của bạn: ");
 
